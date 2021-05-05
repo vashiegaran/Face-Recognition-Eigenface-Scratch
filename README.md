@@ -29,7 +29,7 @@ The objective of this project is to highlight the implementation of linear algeb
     -Each image is then subtracted with the new image which is represented with out eigenvectors
     -If the difference is lower than a chosen threshold, the new image face is classified to a class.
 
-Please read the pdf notes for more detailed explanation with the help of mathematics
+Please refer to pdf notes for more detailed explanation with the help of mathematics
 
 
 3. Application
@@ -38,7 +38,7 @@ Please read the pdf notes for more detailed explanation with the help of mathema
 ![Dataset](Image/1.png)
 
   * Mean image
-  * 
+  
 ![mean image](Image/2.png)
 
   * Each image with zero mean 
@@ -57,4 +57,4 @@ Please read the pdf notes for more detailed explanation with the help of mathema
    
 ![Test Image eigenvectors](Image/6.png)
 
-  
+
