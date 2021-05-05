@@ -4,12 +4,12 @@ Face Recognition and Detection using Eigenface method from scratch
 The Dataset can be downloaded from:https://www.kaggle.com/kasikrit/att-database-of-faces
 
 
-1. **Introduction
+# 1. Introduction
 
   The objective of this project is to highlight the implementation of linear algebra in the field of computer vision and face recognition. Eigenface is the given   name to  a set of eigenvectors. Eigenvectors is a set of features which characterize the global variation among face images.The basis of the eigenfaces method     is the Principal Component Analysis (PCA).PCA is a dimensionality-reduction method that is often used to reduce the dimensionality of large data sets, by         transforming a large set of variables into a smaller one that still contains most of the information in the large set.
 
 
-2. **Algorithm
+# 2. Algorithm
 
   * Obtain face image and represent every image in a n^2 x m matrix
     Image
@@ -43,7 +43,7 @@ The Dataset can be downloaded from:https://www.kaggle.com/kasikrit/att-database-
 Please refer to pdf notes for more detailed explanation with the help of mathematics
 
 
-3. **Application
+# 3. Application
  
   * Display data set of two classes
 ![Dataset](Image/1.png)
