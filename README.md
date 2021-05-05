@@ -42,7 +42,7 @@ Please refer to pdf notes for more detailed explanation with the help of mathema
   
 ![mean image](Image/2.png)
 
-  * Each image with zero mean 
+  * Each image subtracted with mean image
    
 ![zero mean image](Image/3.png)
 
