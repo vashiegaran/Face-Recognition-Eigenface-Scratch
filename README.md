@@ -54,7 +54,7 @@ Please refer to pdf notes for more detailed explanation with the help of mathema
   
 ![Test Image](Image/5.png)
 
-  * Test image reprented using q eigenvectors
+  * Test image represented using q eigenvectors
    
 ![Test Image eigenvectors](Image/6.png)
 
