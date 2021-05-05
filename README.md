@@ -35,25 +35,26 @@ Please read the pdf notes for more detailed explanation with the help of mathema
 3. Application
  
   * Display data set of two classes
-  ![Dataset](Image/1.png)
+![Dataset](Image/1.png)
 
   * Mean image
   * 
 ![mean image](Image/2.png)
 
   * Each image with zero mean 
-  * 
+   
 ![zero mean image](Image/3.png)
 
   * Each image represented with q eigenvectors
-  ![image eigenvectors](Image/4.png)
+  
+![image eigenvectors](Image/4.png)
 
   * Mean Subtracted Test Image
-  * 
+  
 ![Test Image](Image/5.png)
 
   * Test image reprented using q eigenvectors
-  * 
+   
 ![Test Image eigenvectors](Image/6.png)
 
   
