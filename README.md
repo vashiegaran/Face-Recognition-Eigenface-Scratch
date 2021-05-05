@@ -14,23 +14,25 @@ The Dataset can be downloaded from:https://www.kaggle.com/kasikrit/att-database-
   * Obtain face image and represent every image in a n^2 x m matrix
     Image
 
-  * Compute the average face vector
+  * Compute the average face vector,m
 
-  * Subtract each image with the mean vector face
+  * Subtract each image with m
 
-  * Compute the eigen vectors
+  * Compute the eigen vectors,v
 
-  * Select q eigenvectors to represent the new image space and project the new image into our new image space
+  * Select q eigenvectors,k
 
-  * The new image will be represented using the q eigenvectors
+  * Now project new image into k
+
+  * The new image will be represented using the q eigenvectors,x
 
   * Face Detection
-    -Subtract the new image which represented using q eigenvectors with mean vector face
+    -Subtract x-m
     -If the difference is lower than a chosen threshold, the new image face is detected.
  
   * Face Recognition
     -Each image is represented using the eigenvectors
-    -Each image is then subtracted with the new image which is represented with out eigenvectors
+    -Each image is then subtracted with x
     -If the difference is lower than a chosen threshold, the new image face is classified to a class.
 
 Please refer to pdf notes for more detailed explanation with the help of mathematics
