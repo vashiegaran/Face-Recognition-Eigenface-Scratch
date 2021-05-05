@@ -27,12 +27,17 @@ The Dataset can be downloaded from:https://www.kaggle.com/kasikrit/att-database-
   * The new image will be represented using the q eigenvectors,x
 
   * Face Detection
-    -Subtract x-m
+  * 
+    -Subtract x with m
+    
     -If the difference is lower than a chosen threshold, the new image face is detected.
  
   * Face Recognition
+  * 
     -Each image is represented using the eigenvectors
+    
     -Each image is then subtracted with x
+    
     -If the difference is lower than a chosen threshold, the new image face is classified to a class.
 
 Please refer to pdf notes for more detailed explanation with the help of mathematics
